@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/SOHAMRANA77/SOHAMRANA77/main/github-header-image.png)](https://github.com/SOHAMRANA77)
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
-<h3 align="center">👋 Hello there! I'm [Your Name], a passionate frontend developer and aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
+<h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
 
 🐍 Currently honing my Python skills and aspiring for a future at tech giants like Google, Oracle, and IBM. 💡 Constantly curious, I believe in the power of collaboration and community in the tech world.
 
