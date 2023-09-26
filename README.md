@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sohamrana77@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/sohamrana77/soham-rana](https://rxresu.me/sohamrana77/soham-rana)
+- 📄 Know about my experiences [Resume](https://github.com/SOHAMRANA77/SOHAMRANA77.github.oi/blob/a98327b4a82b347020ded29c9a1014832f27369e/templates/SohamResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
