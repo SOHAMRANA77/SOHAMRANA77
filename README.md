@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SOHAMRANA77/photos/blob/71f2a8c62775c890b793087db8a1d0a65cf5bc66/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/SOHAMRANA77)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/SOHAMRANA77)
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
 <h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
 
@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/SOHAMRANA77/count.svg)
 
 
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 - 🔭 I’m currently working on [Data Analysis](https://github.com/SOHAMRANA77/Data-Analysis)
 
 - 🌱 I’m currently learning **AWS,REACT JS,AZURE,**
