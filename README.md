@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/SOHAMRANA77)
+[![MasterHead](https://github.com/SOHAMRANA77/photos/blob/71f2a8c62775c890b793087db8a1d0a65cf5bc66/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/SOHAMRANA77)
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
 <h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
 
