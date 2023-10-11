@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with **big data project**
 
-- 👨‍💻 All of my projects are available at [https://sohamrana.netlify.app/](https://sohamrana.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sohamrana.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@sohamrana77](https://medium.com/@sohamrana77)
+- 📝 I regularly write articles on [medium](https://medium.com/@sohamrana77)
 
 - 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **sohamrana77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SnVPRin-mI4oT4OG4mFu-P27amE1_Kva/view?usp=sharing](https://drive.google.com/file/d/1SnVPRin-mI4oT4OG4mFu-P27amE1_Kva/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SnVPRin-mI4oT4OG4mFu-P27amE1_Kva/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
