@@ -6,7 +6,9 @@
 
 🚀 #PythonDev | #AWS | #BigData | #SQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamrana77&label=Profile%20views&color=0e75b6&style=flat" alt="sohamrana77" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/SOHAMRANA77/count.svg)
+
+
 
 - 🔭 I’m currently working on [Data Analysis](https://github.com/SOHAMRANA77/Data-Analysis)
 
