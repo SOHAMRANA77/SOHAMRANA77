@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **sohamrana77@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SnVPRin-mI4oT4OG4mFu-P27amE1_Kva/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m9XRfeLDnZuLZ3djWHGbXCfwrAPfYjiO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
