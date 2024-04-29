@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamrana77&show_icons=true&locale=en" alt="sohamrana77" /></p>
 
-<!--<img src="https://raw.githubusercontent.com/Sohamrana77/Sohamrana77/output/snake.svg" alt="Snake animation" / >-->
+<img src="https://raw.githubusercontent.com/Sohamrana77/Sohamrana77/output/snake.yml" alt="Snake animation" / >
