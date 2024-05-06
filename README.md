@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/SOHAMRANA77)
+[![MasterHead](https://github.com/SOHAMRANA77/journey-python/assets/116181846/d32b6ab6-4287-411c-a30e-d3d8a6514e0e)](https://github.com/SOHAMRANA77)
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
 <h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
 
