@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/SOHAMRANA77/count.svg)
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/SOHAMRANA77/journey-python/assets/116181846/5f39061a-f654-4220-9854-bdce36d43e3c">
 
 - 🔭 I’m currently working on [Data Analysis](https://github.com/SOHAMRANA77/Data-Analysis)
 
