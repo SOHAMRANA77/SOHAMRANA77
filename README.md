@@ -1,8 +1,6 @@
 [![MasterHead](https://github.com/SOHAMRANA77/journey-python/assets/116181846/d32b6ab6-4287-411c-a30e-d3d8a6514e0e)](https://github.com/SOHAMRANA77)
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
-<h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
-
-⚙️ Currently honing my DevOps skills and aspiring to work with leading global tech companies. 💡 Constantly curious, I believe in the power of automation, scalability, and collaboration in modern cloud platforms.
+<h3 align="center">⚙️ Currently honing my DevOps skills and aspiring to work with leading global tech companies. 💡 Constantly curious, I believe in the power of automation, scalability, and collaboration in modern cloud platforms.
 
 🚀 #DevOps | #Azure | #Kubernetes | #Docker | #CI/CD</h3>
 
