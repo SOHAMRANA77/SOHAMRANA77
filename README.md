@@ -2,30 +2,30 @@
 <h1 align="center">Hi 👋, I'm Soham Rana</h1>
 <h3 align="center">a aspiring Python developer based in India. My tech journey is fueled by a deep passion for AWS, Big Data, and SQL. I'm always eager to explore and learn, with a keen eye on emerging technologies.
 
-🐍 Currently honing my Python skills and aspiring for a future at tech giants like Google, Oracle, and IBM. 💡 Constantly curious, I believe in the power of collaboration and community in the tech world.
+⚙️ Currently honing my DevOps skills and aspiring to work with leading global tech companies. 💡 Constantly curious, I believe in the power of automation, scalability, and collaboration in modern cloud platforms.
 
-🚀 #PythonDev | #AWS | #BigData | #SQL</h3>
+🚀 #DevOps | #Azure | #Kubernetes | #Docker | #CI/CD</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/SOHAMRANA77/count.svg)
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/SOHAMRANA77/journey-python/assets/116181846/5f39061a-f654-4220-9854-bdce36d43e3c">
 
-- 🔭 I’m currently working on [Data Analysis](https://github.com/SOHAMRANA77/Data-Analysis)
+- 🔭 I’m currently working on [DevOps Projects](https://github.com/SOHAMRANA77/)
 
-- 🌱 I’m currently learning **AWS,REACT JS,AZURE,**
+- 🌱 I’m currently learning Azure, Kubernetes, Docker, CI/CD, Terraform
 
-- 🤝 I’m looking for help with **big data project**
+- 🤝 I’m looking for help with cloud-native DevOps projects
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sohamrana.netlify.app/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@sohamrana77)
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about DevOps, Cloud, and Python
 
 - 📫 How to reach me **sohamrana77@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m9XRfeLDnZuLZ3djWHGbXCfwrAPfYjiO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u_nNFS30BPzBeaFzufzWe7tX-SVTUrZJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
